@@ -1,0 +1,84 @@
+#newproduct .box
+{
+  text-align: center;
+  color: rgba(0,0,0,0.5);
+}
+
+#newproduct .title
+{
+  text-align: center;
+}
+
+#newproduct .corr
+{
+  text-align: center;
+}
+
+#newproduct .corr button
+{
+  margin-top: 70px;
+}
+
+#newproduct .title h2
+{
+  color: rgba(0,0,0,0.8);
+}
+
+.column1,
+.column2,
+.column3,
+.column4
+{
+  width: 282px;
+}
+
+.column1,
+.column2,
+.column3
+{
+  float: left;
+  margin-right: 24px;
+}
+
+.column4
+{
+  float: right;
+}
+
+
+/*********************************************************************************/
+/* Wrapper                                                                       */
+/*********************************************************************************/
+#wrapper1
+{
+  overflow: hidden;
+  padding: 6em 0em;
+  background: #FFF;
+}
+
+
+/*********************************************************************************/
+/* 이미지 스타일                                                                  */
+/*********************************************************************************/
+	.image
+	{
+		display: inline-block;
+		border: 3px solid rgba(0,0,0,.1);
+	}
+
+
+	.image-full
+	{
+		display: block;
+		width: 100%;
+		margin: 0 0 0.5em 0;
+    height: 280px;
+	}
+
+  .imagecart
+  {
+    width: 40px;
+    height: 35px;
+    margin: 0 0 -0.8em 0;
+    border-color: #FFF;
+  }

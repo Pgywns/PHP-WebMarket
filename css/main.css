@@ -1,0 +1,106 @@
+
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+#header-wrapper
+{
+  overflow: hidden;
+  padding: 5em 0em;
+  background: #00838C;
+}
+
+#header
+{
+}
+
+
+/*********************************************************************************/
+/* Logo    로고 스타일                                                           */
+/*********************************************************************************/
+#logo
+{
+  padding: 5em 0em;
+  text-align: center;
+}
+
+#logo h1
+{
+  font-size: 3.5em;
+}
+
+#logo a
+{
+  text-decoration: none;
+  color: #FFF;
+}
+
+
+/*********************************************************************************/
+/* Menu 하단 카테고리 메뉴                                                       */
+/*********************************************************************************/
+#menu
+{
+  width: 100%;
+  margin: 20px auto;
+}
+
+#menu ul
+{
+  text-align: center;
+  margin-bottom: -80px;
+}
+
+#menu li
+{
+  display: inline-block;
+}
+
+#menu li a, #menu li span
+{
+  display: inline-block;
+  margin-left: 0.50em;
+  padding: 1.5em 1.5em;
+  letter-spacing: 0.20em;
+  text-decoration: none;
+  font-size: 0.90em;
+  font-weight: 600;
+  text-transform: uppercase;
+  outline: 0;
+  color: #FFF;
+}
+
+
+/*********************************************************************************/
+/* Menu1 상단 메뉴                                                               */
+/*********************************************************************************/
+#menu1
+{
+  width: 100%;
+  margin: -30px auto;
+}
+
+#menu1 ul
+{
+  text-align: center;
+  margin-top: -50px;
+}
+
+#menu1 li
+{
+  display: inline-block;
+}
+
+#menu1 li a, #menu1 li span
+{
+  display: inline-block;
+  margin-left: 0.50em;
+  padding: 1.5em 1.5em;
+  letter-spacing: 0.20em;
+  text-decoration: none;
+  font-size: 0.90em;
+  font-weight: 600;
+  text-transform: uppercase;
+  outline: 0;
+  color: #FFF;
+}

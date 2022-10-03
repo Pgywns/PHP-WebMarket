@@ -1,0 +1,70 @@
+
+#board_box { position: relative; width: 800px; margin: 0 auto; }
+#board_box h3 { margin-top: 30px;	padding: 10px; border-bottom: solid 2px #516e7f; font-size: 20px; }
+#board_form span { display: inline-block; }
+#board_form .col1 { width: 150px; }
+#board_form li {	padding: 12px; border-bottom: solid 1px #dddddd; }
+#board_form input { width: 300px; height: 25px; }
+#board_box .buttons { text-align: right; margin: 20px 0 40px 0; }
+#board_box .buttons li { display: inline; }
+#board_box .buttons button { padding: 5px 10px; cursor: pointer; }
+
+
+html, body
+{
+  height: 100%;
+}
+
+body
+{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12pt;
+  font-weight: 400;
+  color: #000000;
+}
+
+
+h1, h2, h3
+{
+  margin: 0;
+  padding: 0;
+}
+
+p, ol, ul
+{
+  margin-top: 0;
+}
+
+ol, ul
+{
+  padding: 0;
+  list-style: none;
+}
+
+p
+{
+  line-height: 180%;
+}
+
+strong
+{
+}
+
+a
+{
+  color: #0000FF;
+}
+
+a:hover
+{
+  text-decoration: none;
+}
+
+
+.container
+{
+  margin: 0px auto;
+  width: 1200px;
+}

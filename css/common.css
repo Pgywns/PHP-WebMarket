@@ -1,0 +1,60 @@
+
+/*********************************************************************************/
+/* 버튼 스타일                                                                  */
+/*********************************************************************************/
+.button
+{
+  display: inline-block;
+  margin-top: -2em;
+  padding: 1em 2em 1em 2em;
+  background: #333333;
+  letter-spacing: 0.20em;
+  line-height: 1.8em;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.2em;
+  color: #FFF;
+}
+
+.button-small
+{
+  padding: 0.9em 2em;
+  line-height: 1.3em;
+  font-size: 1em;
+}
+
+
+/*********************************************************************************/
+/* Heading Titles                                                                */
+/*********************************************************************************/
+.title
+{
+  margin-bottom: 3em;
+}
+
+.title h2
+{
+  font-size: 2.8em;
+  color: rgba(255,255,255,0.9);
+}
+
+.title .byline
+{
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1.1em;
+  color: #6F6F6F;
+}
+
+
+/*********************************************************************************/
+/* footer                                                                        */
+/*********************************************************************************/
+
+footer { height: 100px; background-color: #2c2a29; }
+#footer_content { position: relative; width: 1000px; margin: 0 auto; color: #dddddd; }
+#footer_logo { position: absolute; top: 30px; left: 50px; font-size: 16px; }
+#download { position: absolute; top: 20px; left: 400px; }
+#author { position: absolute; top: 20px; left: 700px; }
